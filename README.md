@@ -1,8 +1,7 @@
-### Olá ! Eu sou Bruno Dos Anjos 👋
+### Hi ! My name is Bruno Dos Anjos 👋
 
-- 🔭 Hoje estou em busco do meu primeiro emprego de DEV.
-- 📚 Estudando JAVASCRIPT, HTML, CSS.
-- 📫 Contate-me no email: brunoda56@gmail.com
+- 📚 Developer FullStack.
+- 📫 contact us via email: brunoda56@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
